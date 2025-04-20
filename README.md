@@ -61,7 +61,7 @@ Predict the likelihood (`link_clicked`) that a user clicks on a link from an ema
 
 ---
 
-## 📈 Insights
+## Insights
 
 ### 1. CTR by Email Type & Personalization
 | Email Text | Version       | CTR      |
@@ -78,7 +78,7 @@ CTR improved by **2.07%** using feature engineering and modeling optimizations.
 
 ---
 
-## 💡 Future Work
+## Future Work
 
 - Improve class imbalance handling using techniques like SMOTE or ADASYN
 - Use LightGBM or deep learning models for additional performance gains
@@ -86,13 +86,13 @@ CTR improved by **2.07%** using feature engineering and modeling optimizations.
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Satheesh Bhukya  
-🌐 [GitHub](https://github.com/satheeshbhukya) | 📬 [Email](mailto:satheeshbhukya@gmail.com) |
+[GitHub](https://github.com/satheeshbhukya) | [Email](mailto:satheeshbhukya@gmail.com) |
 
 ---
 
-## 📄 License
+## License
 
 MIT License
